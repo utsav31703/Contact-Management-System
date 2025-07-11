@@ -18,12 +18,6 @@ A simple RESTful **Contact Management System** built using **Node.js**, **Expres
 - 🛡️ Protected routes using JWT middleware
 - 📦 Express.js and Node.js backend
 
----
-
-## 📁 Folder Structure
-
-```
-
 Contact-Management-System/
 ├── config/
 │   └── dbConnection.js
@@ -42,6 +36,13 @@ Contact-Management-System/
 ├── .env
 ├── package.json
 └── server.js
+---
+
+## 📁 Folder Structure
+
+```
+
+
 
 ````
 
